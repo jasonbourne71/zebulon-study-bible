@@ -1,5 +1,7 @@
 # zebulon-study-bible
-From the power couple who brought you the Hour of Power comes the world's most powerful study bible
+From the power couple who brought you the Hour of Power comes the world's most powerful study bible. 
+
+Check out Midnight Burger at [weopenatsix.com](https://www.weopenatsix.com/) and support the show on [Patreon](https://www.patreon.com/midnightburger)!
 
 ## World English Bible Source Text
 
